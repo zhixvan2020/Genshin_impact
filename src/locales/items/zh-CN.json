@@ -1,0 +1,387 @@
+{
+    "a-thousand-floating-dreams": "王燕杰",
+    "akuoumaru": "周筠叡",
+    "alley-hunter": "宗秋翊",
+    "amos-bow": "王晔轩",
+    "aqua-simulacra": "陈子桐",
+    "aquila-favonia": "丁睿麟",
+    "beacon-of-the-reed-sea": "刘梓铭",
+    "black-tassel": "黄健韬",
+    "bloodtained-greatsword": "付璟轩",
+    "calamity-queller": "倪博闻",
+    "cashflow-supervision": "李佩泽",
+    "cool-steel": "徐思琦",
+    "debate-club": "王续霄",
+    "dragon_s-bane": "张时嘉",
+    "elegy-for-the-end": "丁依然",
+    "emerald-orb": "蔡雨绮",
+    "engulfing-lightning": "焦岳",
+    "everlasting-moonglow": "杨珖",
+    "eye-of-perception": "王攸苒",
+    "favonius-codex": "王伝翔",
+    "favonius-greatsword": "周悠然",
+    "favonius-lance": "曹屹然",
+    "favonius-sword": "陈梓洋",
+    "favonius-warbow": "董峻峰",
+    "ferrous-shadow": "衡永灿",
+    "freedom-sworn": "黄梓航",
+    "haran-geppaku-futsu": "谈沛锦",
+    "harbinger-of-dawn": "彭涵睿",
+    "hunter_s-path": "薛婧琪",
+    "jadefall-splendor": "林卓文",
+    "kagura_s-verity": "张思玥",
+    "key-of-khaj-nisut": "胡梓萱",
+    "lion_s-roar": "陈嘉琪",
+    "light-of-foliar-incision": "李泓宇",
+    "lithic-blade": "向菁宜",
+    "lithic-spear": "周予程",
+    "lost-prayer-to-the-sacred-winds": "陈佑泽",
+    "magic-guide": "徐天骐",
+    "makhaira-aquamarine": "崔适楠",
+    "memory-of-dust": "冯奕涵",
+    "mistsplitter-reforged": "侯知谦",
+    "mitternachts-waltz": "俞欢宸",
+    "mouun_s-moon": "谈奕天",
+    "polar-star": "李嘉恒",
+    "portable-power-saw": "赵明萱",
+    "primordial-jade-cutter": "裘泽宸",
+    "primordial-jade-winged-spear": "鲁仕运",
+    "prospector-drill": "江安琪",
+    "rainslasher": "丁灏瑜",
+    "range-gauge": "林声澈",
+    "raven-bow": "王燕杰",
+    "redhorn-stonethresher": "周筠叡",
+    "rust": "宗秋翊",
+    "sacrificial-bow": "王晔轩",
+    "sacrificial-fragments": "陈子桐",
+    "sacrificial-greatsword": "丁睿麟",
+    "sacrificial-sword": "刘梓铭",
+    "sharpshooter_s-oath": "黄健韬",
+    "skyrider-sword": "付璟轩",
+    "skyward-atlas": "倪博闻",
+    "skyward-blade": "李佩泽",
+    "skyward-harp": "徐思琦",
+    "skyward-pride": "王续霄",
+    "skyward-spine": "张时嘉",
+    "slingshot": "丁依然",
+    "song-of-broken-pines": "蔡雨绮",
+    "splendor-of-tranquil-waters": "焦岳",
+    "staff-of-homa": "杨珖",
+    "staff-of-the-scarlet-sands": "王攸苒",
+    "summit-shaper": "王伝翔",
+    "the-alley-flash": "周悠然",
+    "the-bell": "曹屹然",
+    "the-dockhands-assistant": "陈梓洋",
+    "the-first-great-magic": "董峻峰",
+    "the-flute": "衡永灿",
+    "the-stringless": "黄梓航",
+    "the-unforged": "谈沛锦",
+    "the-widsith": "彭涵睿",
+    "thrilling-tales-of-dragon-slayers": "薛婧琪",
+    "thundering-pulse": "林卓文",
+    "tome-of-the-eternal-flow": "张思玥",
+    "tulaytullah_s-remembrance": "胡梓萱",
+    "verdict": "陈嘉琪",
+    "vortex-vanquisher": "李泓宇",
+    "wavebreaker_s-fin": "向菁宜",
+    "wine-and-song": "周予程",
+    "wandering-evenstar": "陈佑泽",
+    "wolf_s-gravestone": "徐天骐",
+    "xiphos-moonlight": "崔适楠",
+	"albedo": {
+		"name": "周予程",
+		"title": "白垩之子"
+	},
+	"alhaitham": {
+		"name": "张思玥",
+		"title": "诲韬诤言"
+	},
+	"amber": {
+		"name": "黄梓航",
+		"title": "飞行冠军"
+	},
+	"arataki-itto": {
+		"name": "衡永灿",
+		"title": "花坂豪快"
+	},
+	"baizhu": {
+		"name": "周悠然",
+		"title": "遵生合和"
+	},
+	"barbara": {
+		"name": "曹屹然",
+		"title": "闪耀偶像"
+	},
+	"beidou": {
+		"name": "曹YR",
+		"title": "无冕的龙王"
+	},
+	"bennett": {
+		"name": "彭涵睿",
+		"title": "命运试金石"
+	},
+	"candace": {
+		"name": "彭涵睿",
+		"title": "浮金的誓愿"
+	},
+	"charlotte": {
+		"name": "彭涵睿",
+		"title": "朗镜索真"
+	},
+	"chongyun": {
+		"name": "彭涵睿",
+		"title": "雪融有踪"
+	},
+	"collei": {
+		"name": "彭涵睿",
+		"title": "萃念初蘖"
+	},
+	"cyno": {
+		"name": "彭涵睿",
+		"title": "缄秘的裁遣"
+	},
+	"dehya": {
+		"name": "宗秋翊",
+		"title": "炽鬃之狮"
+	},
+	"diluc": {
+		"name": "彭涵睿",
+		"title": "晨曦的暗面"
+	},
+	"diona": {
+		"name": "黄梓航",
+		"title": "猫尾特调"
+	},
+	"dori": {
+		"name": "黄梓航",
+		"title": "梦园藏金"
+	},
+	"eula": {
+		"name": "黄梓航",
+		"title": "浪沫的旋舞"
+	},
+	"faruzan": {
+		"name": "黄梓航",
+		"title": "机逐封秘"
+	},
+	"fischl": {
+		"name": "黄梓航",
+		"title": "断罪皇女！！"
+	},
+	"freminet": {
+		"name": "赵明萱",
+		"title": "潜怀遐梦"
+	},
+	"furina": {
+		"name": "赵明萱",
+		"title": "不休独舞"
+	},
+	"ganyu": {
+		"name": "董俊峰",
+		"title": "循循守月"
+	},
+	"gorou": {
+		"name": "赵明萱",
+		"title": "戎犬锵锵"
+	},
+	"hu-tao": {
+		"name": "丁睿麟",
+		"title": "雪霁梅香"
+	},
+	"jean": {
+		"name": "赵明萱",
+		"title": "蒲公英骑士"
+	},
+	"kaedehara-kazuha": {
+		"name": "王晔轩",
+		"title": "红叶逐荒波"
+	},
+	"kaeya": {
+		"name": "王续霄",
+		"title": "寒风剑士"
+	},
+	"kamisato-ayaka": {
+		"name": "王续霄",
+		"title": "白鹭霜华"
+	},
+	"kamisato-ayato": {
+		"name": "侯知谦",
+		"title": "磐祭叶守"
+	},
+	"keqing": {
+		"name": "侯知谦",
+		"title": "霆霓快雨"
+	},
+	"klee": {
+		"name": "聪明的丁睿麟",
+		"title": "逃跑的太阳"
+	},
+	"kirara": {
+		"name": "裘泽宸",
+		"title": "檐宇猫游"
+	},
+	"kaveh": {
+		"name": "裘泽宸",
+		"title": "天穹之镜"
+	},
+	"kujou-sara": {
+		"name": "裘泽宸",
+		"title": "黑羽鸣镝"
+	},
+	"kuki-shinobu": {
+		"name": "",
+		"title": "烦恼刈除"
+	},
+	"layla": {
+		"name": "裘泽宸",
+		"title": "绮思晚星"
+	},
+	"lisa": {
+		"name": "张思玥",
+		"title": "蔷薇魔女"
+	},
+	"lynette": {
+		"name": "张思玥",
+		"title": "丽影绮行"
+	},
+	"lyney": {
+		"name": "张思玥",
+		"title": "惑光幻戏"
+	},
+	"mika": {
+		"name": "林卓文",
+		"title": "晴霜的标绘"
+	},
+	"mona": {
+		"name": "林卓文",
+		"title": "星天水镜"
+	},
+	"nahida": {
+		"name": "林卓文",
+		"title": "白草净华"
+	},
+	"navia": {
+		"name": "张时嘉",
+		"title": "明花蔓舵"
+	},
+	"neuvillette": {
+		"name": "张时嘉",
+		"title": "谕告的潮音"
+	},
+	"nilou": {
+		"name": "张时嘉",
+		"title": "莲光落舞筵"
+	},
+	"ningguang": {
+		"name": "董俊峰",
+		"title": "掩月天权"
+	},
+	"noelle": {
+		"name": "杨珖",
+		"title": "未受勋之花"
+	},
+	"qiqi": {
+		"name": "DRL",
+		"title": "冻冻回魂夜"
+	},
+	"raiden-shogun": {
+		"name": "裘泽宸",
+		"title": "一心净土"
+	},
+	"razor": {
+		"name": "王攸苒",
+		"title": "狼少年"
+	},
+	"rosaria": {
+		"name": "刘梓铭",
+		"title": "棘冠恩典"
+	},
+	"sangonomiya-kokomi": {
+		"name": "张思玥",
+		"title": "真珠之智"
+	},
+	"sayu": {
+		"name": "彭涵睿",
+		"title": "忍里之貉"
+	},
+	"shenhe": {
+		"name": "谈奕天",
+		"title": "孤辰茕怀"
+	},
+	"shikanoin-heizou": {
+		"name": "俞欢宸",
+		"title": "心朝乂安"
+	},
+	"sucrose": {
+		"name": "李嘉恒",
+		"title": "无害甜度"
+	},
+	"tartaglia": {
+		"name": "丁灏瑜",
+		"title": "「公子」"
+	},
+	"thoma": {
+		"name": "陈子桐",
+		"title": "渡来介者"
+	},
+	"tighnari": {
+		"name": "倪博闻",
+		"title": "浅蔚轻行"
+	},
+	"venti": {
+		"name": "李嘉恒",
+		"title": "风色诗人"
+	},
+	"wanderer": {
+		"name": "周筠叡",
+		"title": "久世浮倾"
+	},
+	"wriothesley": {
+		"name": "林卓文",
+		"title": "寂罪的密使"
+	},
+	"xiangling": {
+		"name": "周予程",
+		"title": "万民百味"
+	},
+	"xiao": {
+		"name": "裘泽宸",
+		"title": "护法夜叉"
+	},
+	"xingqiu": {
+		"name": "崔适楠",
+		"title": "少年春衫薄"
+	},
+	"xinyan": {
+		"name": "王续霄",
+		"title": "燥热旋律"
+	},
+	"yae-miko": {
+		"name": "黄健韬",
+		"title": "浮世笑百姿"
+	},
+	"yanfei": {
+		"name": "谈奕天",
+		"title": "智明无邪"
+	},
+	"yaoyao": {
+		"name": "黄健韬",
+		"title": "仙蕊玲珑"
+	},
+	"yelan": {
+		"name": "李佩泽",
+		"title": "兰生幽谷"
+	},
+	"yoimiya": {
+		"name": "彭涵睿",
+		"title": "琉焰华舞"
+	},
+	"yun-jin": {
+		"name": "蔡雨绮",
+		"title": "红毹婵娟"
+	},
+	"zhongli": {
+		"name": "李佩泽",
+		"title": "尘世闲游"
+	}
+}
